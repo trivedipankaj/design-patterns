@@ -1,4 +1,4 @@
 design-patterns
 ===============
 
-GoF Design Patters with examples
+GoF Design Patterns with examples
